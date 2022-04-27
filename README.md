@@ -8,3 +8,10 @@ Este é o reppositório do Diego
 - ver TV 📺
 - jogar videogame 🎮
 - praia 🏖️
+
+
+### habilidades
+
+- Firewalls
+- Infraestrutura
+- 
