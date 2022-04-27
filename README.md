@@ -2,3 +2,9 @@
 
 
 Este é o reppositório do Diego
+
+## hobbies
+
+- ver TV 📺
+- jogar videogame 🎮
+- praia 🏖️
